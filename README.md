@@ -1,6 +1,6 @@
 Demo:
 
-
+https://github.com/xhluca/try-latex-on-git/assets/21180505/8e3e1b89-d275-4ac7-920a-8978648da221
 
 Instructions by ChatGPT below:
 
